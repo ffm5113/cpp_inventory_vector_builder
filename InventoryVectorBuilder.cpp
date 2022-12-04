@@ -44,10 +44,10 @@ int main()
 
 	// Dynamic Variable Initialization
 	int displaySelection;
-  // File directory
+  	// File directory
 	string inputFilePath = "C:\\Users\\UserName\\Path\\To\\Directory";
 	// File name appended
-  inputFilePath += "InventoryParts.txt";
+  	inputFilePath += "InventoryParts.txt";
 	bool keepLooping = true;
 
 	// Create input file stream object
