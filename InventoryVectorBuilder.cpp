@@ -12,7 +12,7 @@
 #include <vector>   // To use vector (dynamically sized form of array)
 using namespace std;
 
-// Global Constant Initialization
+// Global constant initialization
 const string TITLE = "Inventory Vector Builder Program";
 const string AUTHOR_LINE = "By Forrest Moulin";
 
