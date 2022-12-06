@@ -177,7 +177,7 @@ int displayMenu()
 		<< endl << "1. Total inventory cost"
 		<< endl << "2. Quantity by part type"
 		<< endl << "3. Total cost of part type"
-		<< endl << "4. Part with higest inventory cost"
+		<< endl << "4. Part with highest inventory cost"
 		<< endl << "5. Part with lowest inventory cost"
 		<< endl << "6. Exit program" << endl << endl;
 	cin >> menuSelection;
@@ -327,7 +327,7 @@ void displayCounts(const vector <int>& partTypeCounts)
 * 1. Total inventory cost
 * 2. Quantity by part type
 * 3. Total cost of part type
-* 4. Part with higest inventory cost
+* 4. Part with highest inventory cost
 * 5. Part with lowest inventory cost
 * 6. Exit program
 * 
@@ -340,7 +340,7 @@ void displayCounts(const vector <int>& partTypeCounts)
 * 1. Total inventory cost
 * 2. Quantity by part type
 * 3. Total cost of part type
-* 4. Part with higest inventory cost
+* 4. Part with highest inventory cost
 * 5. Part with lowest inventory cost
 * 6. Exit program
 *
@@ -359,7 +359,7 @@ void displayCounts(const vector <int>& partTypeCounts)
 * 1. Total inventory cost
 * 2. Quantity by part type
 * 3. Total cost of part type
-* 4. Part with higest inventory cost
+* 4. Part with highest inventory cost
 * 5. Part with lowest inventory cost
 * 6. Exit program
 *
@@ -376,7 +376,7 @@ void displayCounts(const vector <int>& partTypeCounts)
 * 1. Total inventory cost
 * 2. Quantity by part type
 * 3. Total cost of part type
-* 4. Part with higest inventory cost
+* 4. Part with highest inventory cost
 * 5. Part with lowest inventory cost
 * 6. Exit program
 *
@@ -391,7 +391,7 @@ void displayCounts(const vector <int>& partTypeCounts)
 * 1. Total inventory cost
 * 2. Quantity by part type
 * 3. Total cost of part type
-* 4. Part with higest inventory cost
+* 4. Part with highest inventory cost
 * 5. Part with lowest inventory cost
 * 6. Exit program
 *
@@ -406,7 +406,7 @@ void displayCounts(const vector <int>& partTypeCounts)
 * 1. Total inventory cost
 * 2. Quantity by part type
 * 3. Total cost of part type
-* 4. Part with higest inventory cost
+* 4. Part with highest inventory cost
 * 5. Part with lowest inventory cost
 * 6. Exit program
 *
