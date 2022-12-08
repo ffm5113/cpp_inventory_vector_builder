@@ -412,5 +412,5 @@ void displayCounts(const vector <int>& partTypeCounts)
 *
 * 6
 * You selected 6: Exit program
-* Exiting the program. Until next time!: )
+* Exiting the program. Until next time! :)
 */
