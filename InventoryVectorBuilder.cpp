@@ -45,7 +45,7 @@ int main()
 	// Dynamic Variable Initialization
 	int displaySelection;
   	// File directory
-	string inputFilePath = "C:\\Users\\UserName\\Path\\To\\Directory";
+	string inputFilePath = "C:\\Users\\UserName\\Path\\To\\Directory\\";
 	// File name appended
   	inputFilePath += "InventoryParts.txt";
 	bool keepLooping = true;
